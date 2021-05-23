@@ -24,7 +24,7 @@
 
    data split - train data, test data
 
-3. model sellection & training
+3. model selection & training
 
    linear regression
 
