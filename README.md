@@ -8,23 +8,19 @@
 
 2. data analysis & preprocessing
 
-   data feature
-
-   quarter, business_area, business (one hot encoding)
-
-   주중 매출건수 비율, 남성 매출건수 비율, 여성 매출건수 비율, 낮 매출건수 비율, 밤 매출건수 비율, 점포수
+   data feature (17개) - quarter, business_area, business (one hot encoding), 주중, 남성, 여성, 낮, 밤 매출건수 비율
 
    불필요한 data rows, columns drop
 
-   scatter matrix
+   histogram, scatter matrix
+   
+   normalization
    
    점포수 0 data를 1로 변경
    
    여러 점포수 매출 합 -> 점포 하나당 매출
    
    매출이 너무 큰 점포 데이터 삭제
-   
-   normalization
 
    data split - train data, test data
 
@@ -38,4 +34,4 @@
 
 4. grid search, randomized search
 
-   random forest로 선정
+   random forest
