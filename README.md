@@ -1,12 +1,12 @@
 # supervised learning
 
-1. data collection
+## 1. data collection
 
    매출액에 대한 관심 -> 서울시 열린 데이터 광장 -> 미용업계 매출액 예측 타게팅
 
    서울시 우리마을가게 상권분석서비스(.csv) data 수집
 
-2. data analysis & preprocessing
+## 2. data analysis & preprocessing
 
    data feature (17개) - quarter, business_area, business (one hot encoding), 주중, 남성, 여성, 낮, 밤 매출건수 비율
 
@@ -24,7 +24,7 @@
 
    data split - train data, test data
 
-3. model selection & training
+## 3. model selection & training
 
    linear regression
 
@@ -32,6 +32,6 @@
 
    random forest regressor
 
-4. grid search, randomized search
+## 4. grid search, randomized search
 
    random forest
