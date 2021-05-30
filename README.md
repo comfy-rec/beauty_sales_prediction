@@ -1,10 +1,23 @@
-# supervised learning
+# beauty sales prediction
+
+## requirements
+
+graphviz 2.38  
+jupyter 1.0.0  
+matplotlib 3.3.4  
+notebook 6.3.0  
+numpy 1.20.1  
+pandas 1.2.4  
+python-graphviz 0.16  
+python 3.9.4  
+scikit-learn 0.24.1  
+anaconda 3
 
 ## 1. data collection
 
-    매출액에 대한 관심 -> 서울시 열린 데이터 광장 -> 미용업계 매출액 예측 타게팅
+매출액에 대한 관심 -> 서울시 열린 데이터 광장 -> 미용업계 매출액 예측 타게팅
 
-    서울시 우리마을가게 상권분석서비스(.csv) data 수집
+서울시 우리마을가게 상권분석서비스(.csv) data 수집
 
 ## 2. data analysis & preprocessing
 
