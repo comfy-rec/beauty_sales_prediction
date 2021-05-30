@@ -1,6 +1,6 @@
 # beauty sales prediction
 
-## requirements
+## 0. requirements
 
 graphviz 2.38  
 jupyter 1.0.0  
@@ -15,9 +15,9 @@ anaconda 3
 
 ## 1. data collection
 
-매출액에 대한 관심 -> 서울시 열린 데이터 광장 -> 미용업계 매출액 예측 타게팅
+    매출액에 대한 관심 -> 서울시 열린 데이터 광장 -> 미용업계 매출액 예측 타게팅
 
-서울시 우리마을가게 상권분석서비스(.csv) data 수집
+    서울시 우리마을가게 상권분석서비스(.csv) data collection
 
 ## 2. data analysis & preprocessing
 
@@ -36,8 +36,14 @@ anaconda 3
     매출이 너무 큰 점포 데이터 삭제
 
     data split - train data, test data
+    
+## 3. datasets
 
-## 3. model selection & training
+    train - 10922 rows, 17 columns
+    
+    test - 2731 rows, 17 columns
+
+## 4. model selection & training
 
     linear regression
 
@@ -45,6 +51,6 @@ anaconda 3
 
     random forest regressor
 
-## 4. grid search, randomized search
+## 5. grid search, randomized search
 
     random forest
