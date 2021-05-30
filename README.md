@@ -21,7 +21,7 @@ anaconda 3
 
 ## 2. data analysis & preprocessing
 
-    data feature (17개) - quarter, business_area, business (one hot encoding), 주중, 남성, 여성, 낮, 밤 매출건수 비율
+    features (17개) - one hot encoding(quarter, business_area, business), 매출건수 비율(주중, 남성, 여성, 낮, 밤)
 
     불필요한 data rows, columns drop
 
