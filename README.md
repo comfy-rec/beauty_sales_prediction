@@ -2,16 +2,16 @@
 
 ## 0. requirements
 
-graphviz 2.38  
-jupyter 1.0.0  
-matplotlib 3.3.4  
-notebook 6.3.0  
-numpy 1.20.1  
-pandas 1.2.4  
-python-graphviz 0.16  
-python 3.9.4  
-scikit-learn 0.24.1  
-anaconda 3
+    graphviz 2.38  
+    jupyter 1.0.0  
+    matplotlib 3.3.4  
+    notebook 6.3.0  
+    numpy 1.20.1  
+    pandas 1.2.4  
+    python-graphviz 0.16  
+    python 3.9.4  
+    scikit-learn 0.24.1  
+    anaconda 3
 
 ## 1. data collection
 
